@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif }
+
+body{
+    background: linear-gradient(180deg, #D1FDFF 0%, #FDDB92 100%);
+}
+
+.mat-button.mat-accent,
+.mat-icon-button.mat-accent,
+.mat-stroked-button.mat-accent{
+    color: #00e676;
+}
